@@ -1,0 +1,6 @@
+../Core/Src/main.c:84:5:main	80	static
+../Core/Src/main.c:187:16:platform_write	24	static
+../Core/Src/main.c:199:16:platform_read	24	static
+../Core/Src/main.c:218:13:tx_com	16	static
+../Core/Src/main.c:223:13:platform_delay	16	static
+../Core/Src/main.c:234:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+../Core/Src/main.c:84:5:main	3
+../Core/Src/main.c:187:16:platform_write	1
+../Core/Src/main.c:199:16:platform_read	1
+../Core/Src/main.c:218:13:tx_com	1
+../Core/Src/main.c:223:13:platform_delay	1
+../Core/Src/main.c:234:6:Error_Handler	1
